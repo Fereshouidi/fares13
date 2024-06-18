@@ -1,5 +1,5 @@
 export function updatePassenger ( data){
-    fetch(`https://e13f-102-106-123-13.ngrok-free.app/api/passenger/`, {
+    fetch(`https://0441-102-172-29-151.ngrok-free.app/api/passenger/`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
